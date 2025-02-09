@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The letter should be C
+=======
+The letter should be D
+>>>>>>> test_branch_D
